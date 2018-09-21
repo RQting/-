@@ -7,4 +7,4 @@
 
 *e-mail*:1575163967@qq.com
 
-![my photo](IMG_20180919_214109.jpg)
+![my photo](https://github.com/RQting/iwtbi.github.com/blob/master/IMG_20180919_2.jpg)
